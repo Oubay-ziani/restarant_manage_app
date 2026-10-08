@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420627424648",
+    "project_id": "grill-restaurant-8f4d2",
+    "storage_bucket": "grill-restaurant-8f4d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420627424648:android:bcbfbf609653ebc366063d",
+        "android_client_info": {
+          "package_name": "com.grill.pos.grill_pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjZulqZu3EaRdNMqA920AvWvHIM-UjXvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
